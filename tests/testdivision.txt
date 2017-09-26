@@ -1,0 +1,9 @@
+print 1 / 1;
+print 50 / 2 / 5;
+
+print 1.0 / 1.0;
+print 50.0 / 2.0 / 3.0;
+
+print 8.0 / 8;
+print 8.0 / 2;
+print 10 / 5.0;
